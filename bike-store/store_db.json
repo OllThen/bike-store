@@ -1,0 +1,77 @@
+[
+  {
+      "name": "Specialized Demo",
+      "price": "$7,100",
+      "image": "images/Demo.jpg"
+  },
+  {
+      "name": "Santa Cruz V10",
+      "price": "$8,599",
+      "image": "images/V10.jpg"
+  },
+  {
+      "name": "Canyon Sender",
+      "price": "$5,599",
+      "image": "images/Sender.jpg"
+  },
+{
+    "name": "Specialized P.3",
+    "price": "$2,000",
+    "image": "images/p 3.jpeg"
+},
+{
+    "name": "Specialized STATUS 2 170",
+    "price": "$3,500",
+    "image": "images/status.jpg"
+},
+{
+    "name": "Specialized Stumpjumper Comp",
+    "price": "$5,000",
+    "image": "images/stump.jpg"
+},
+{
+    "name": "Specialized Turbo Kenevo SL 2",
+    "price": "$11,000",
+    "image": "images/kenevo.jpg"
+},
+{
+    "name": "Santa Cruz NOMAD",
+    "price": "$6,999",
+    "image": "images/nomand.jpg"
+},
+{
+    "name": "Santa Cruz BRONSON",
+    "price": "$4,999",
+    "image": "images/BRONSON.webp"
+},
+{
+    "name": "Canyon Torque DH",
+    "price": "$3,699",
+    "image": "images/Canuon 1.jpg"
+},
+{
+    "name": "Canyon Spectral 6",
+    "price": "$2,999",
+    "image": "images/Canyon-Spectral-29-AL-6-Mountain-Bikes.jpg"
+},
+{
+    "name": "Giant Glory Advanced",
+    "price": "$8,000",
+    "image": "images/glory.jpg"
+},
+{
+    "name": "Trek Remedy 8",
+    "price": "$4,000",
+    "image": "images/trek 1.jpg"
+},
+{
+    "name": "Trek Session 9 X01",
+    "price": "$7,499",
+    "image": "images/trek 3.jpg"
+},
+{
+    "name": "Trek Fuel EX 7 Gen 6",
+    "price": "$3,300",
+    "image": "images/trek 2.jpg"
+}
+]
